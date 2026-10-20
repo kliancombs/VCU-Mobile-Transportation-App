@@ -1,4 +1,4 @@
-                                                       ** Early Development **
+                                                 ** Early Development **
 
 A mobile app usable on both IOS and Android to help VCU commuter students find affordable parking on campus. 
 
