@@ -1,5 +1,5 @@
 ** Early Development **
-A mobile app to help VCU commuter students find affordable parking on campus. 
+A mobile app usable on both IOS and Android to help VCU commuter students find affordable parking on campus. 
 Made with Flutter/Dart
 
 <img width="2382" height="1718" alt="image" src="https://github.com/user-attachments/assets/2db0460d-cf8b-445a-9d07-5724dc290304" />
