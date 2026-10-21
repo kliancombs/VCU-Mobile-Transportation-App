@@ -14,9 +14,10 @@ class VcuLocations {
   static const List<String> suggestions = <String>[
     'Library',
     'Engineering West Hall',
+    'Engineering East Hall',
     'University Student Commons',
     'Grace Harris Center',
-    'Hibbett Hall',
+    'Hibbs Hall',
     'Snead Hall',
     'Pollak Building',
     'Shafer Street Dining Center',

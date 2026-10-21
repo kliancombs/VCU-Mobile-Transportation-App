@@ -93,7 +93,7 @@ void main() {
         expect(find.text('Engineering West Hall'), findsOneWidget);
         expect(find.byType(ListTile), findsOneWidget);
         expect(find.text('Library'), findsNothing);
-        expect(find.text('Hibbett Hall'), findsNothing);
+        expect(find.text('Hibbs Hall'), findsNothing);
         expect(find.byKey(const Key('noMatchMessage')), findsNothing);
 
         // A01 step 4 / basic path step 3-4: select and fill the field.
